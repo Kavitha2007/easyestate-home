@@ -1,0 +1,10 @@
+project_id = "vodyksxejoankluavskt"
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.seed-properties]
+verify_jwt = true
+
+[functions.promote-admin]
+verify_jwt = false
